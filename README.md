@@ -2,7 +2,7 @@
 
 A typescript based project 
 
-# what can be acheived you random stranger(beginner) look at repo
+### what can be acheived if random stranger(beginner) look at repo
 
 1.understand interface types 
 2.type in dom manupulation
